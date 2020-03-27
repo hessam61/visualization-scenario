@@ -25,6 +25,9 @@
       "text": "finish.md"
     }
   },
+  "files": [
+    "assets/app.py"
+  ],
   "environment": {
     "uilayout": "editor-terminal"
   },
